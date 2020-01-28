@@ -7,7 +7,7 @@ public class Scrollingroad : MonoBehaviour
 	public float scrollSpeed;
 	public float tileSize;
 
-	private Vector3 startPosition;
+	private Vector2 startPosition;
 
 	void Start()
 	{
@@ -17,6 +17,6 @@ public class Scrollingroad : MonoBehaviour
 	void Update()
 	{
 		float newPosition = Mathf.Repeat(Time.realtimeSinceStartup * scrollSpeed, tileSize);
-		transform.position = startPosition + Vector3.up * newPosition;
+		transform.position = startPosition + Vector2.up * newPosition;
 	}
 }

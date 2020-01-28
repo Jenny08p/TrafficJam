@@ -22,9 +22,9 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log(rb2d.velocity);
         float moveHorizontal = Input.GetAxis("Horizontal");
-        Vector2 movement = new Vector2(moveHorizontal, 1);
+        Vector2 movement = new Vector2(moveHorizontal, 0);
 
-        rb2d.AddForce(movement * 0);
+        rb2d.AddForce(movement);
 
     }
 }
