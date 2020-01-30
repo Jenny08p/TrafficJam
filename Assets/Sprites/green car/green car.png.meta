@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 87474d4d3bfede2418c03060953aa3e1
+guid: f7b585b5cf0d21641a2cdb7ec469f7b3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7206818784195897195
-    second: blue car_0
+      213: 120349635869896627
+    second: green car_0
   - first:
-      213: -443954143569496688
-    second: blue car_1
+      213: -8300966187800847678
+    second: green car_1
   - first:
-      213: 3479051570872340334
-    second: blue car_2
+      213: 4252218218005838373
+    second: green car_2
   - first:
-      213: 3092751089002816780
-    second: blue car_3
+      213: 5888184980295923633
+    second: green car_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -96,7 +96,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blue car_0
+      name: green car_0
       rect:
         serializedVersion: 2
         x: 0
@@ -110,14 +110,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4254333dc8cf9c3458665ea3d4c3807c
-      internalID: 7206818784195897195
+      spriteID: c9acb1c7cf635c746b7b33e15f68fa45
+      internalID: 120349635869896627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue car_1
+      name: green car_1
       rect:
         serializedVersion: 2
         x: 32
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94f22d0b780cc924ea60934ef6f0b5e6
-      internalID: -443954143569496688
+      spriteID: 081f70cfa998a2d4b92e3250c4c55368
+      internalID: -8300966187800847678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue car_2
+      name: green car_2
       rect:
         serializedVersion: 2
         x: 64
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e19b9a2e258709e408a9f407f15a09f5
-      internalID: 3479051570872340334
+      spriteID: f6f35ee510eed3b418585bef91b14564
+      internalID: 4252218218005838373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue car_3
+      name: green car_3
       rect:
         serializedVersion: 2
         x: 96
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d11089a820cc2a8419a8f673971421d3
-      internalID: 3092751089002816780
+      spriteID: 8962c1fbdc6d4854ca1262e2e8394e2d
+      internalID: 5888184980295923633
       vertices: []
       indices: 
       edges: []
@@ -182,7 +182,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7c0a0194f0c11f34696d344b9569d889
+    spriteID: ab73e7ff93d13a14a9471cad670f8f7c
     internalID: 0
     vertices: []
     indices: 
